@@ -1,0 +1,10 @@
+﻿Build started 17/12/2014 20:15:52.
+     1>Project "C:\Users\Scott\Dropbox\University\OOP\Matrix\Matrix.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (._Matrix (Scott’s MacBook Pro's conflicted copy 2014-12-13).vcxproj, ._Matrix.vcxproj, Matrix (Scott’s MacBook Pro's conflicted copy 2014-12-13).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         Matrix.vcxproj -> C:\Users\Scott\Dropbox\University\OOP\Matrix\Debug\Matrix.exe
+     1>Done Building Project "C:\Users\Scott\Dropbox\University\OOP\Matrix\Matrix.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.35
